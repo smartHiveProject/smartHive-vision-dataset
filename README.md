@@ -1,5 +1,6 @@
-# smartHive-vision-dataset
-Bee-detection YOLOv10 dataset for smartHive-vision repo. 
+# smartHive-vision-dataset (WIP)
+Bee-detection YOLOv10 dataset for smartHive-vision repo.  
+Planning on adding more images within the next few weeks from seperate hive  
 
 Images used in the annotated dataset:
 ```
